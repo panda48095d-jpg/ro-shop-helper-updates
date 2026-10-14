@@ -1,7 +1,7 @@
 
 {
   "chrome": {
-    "version": "2.1.12",
+    "version": "2.1.10",
     "url": "https://chromewebstore.google.com/detail/alaiodnlcalhehklkclflfhmbjcnpehd"
   },
   "edge": {
@@ -9,7 +9,7 @@
     "url": "https://microsoftedge.microsoft.com/addons/detail/kabhfboknifoaodnefjcmeflemfmlhkm"
   },
   "firefox": {
-    "version": "2.1.10",
+    "version": "2.1.12",
     "url": "https://addons.mozilla.org/zh-TW/firefox/addon/ro%E6%A8%82%E5%9C%92%E9%9C%B2%E5%A4%A9%E6%9F%A5%E8%A9%A2%E5%8A%A9%E6%89%8B/"
   }
 }
